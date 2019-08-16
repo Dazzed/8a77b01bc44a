@@ -1,0 +1,33 @@
+{
+  "latest_receipt": "ewoJInN<... snip ...>=",
+  "latest_receipt_info": {
+    "item_id": "1226225680",
+    "app_item_id": "1144304244",
+    "product_id": "com.foundermark.Friended.prosub",
+    "bid": "com.foundermark.friended",
+    "bvrs": "1",
+    "transaction_id": "30000443961358",
+    "original_transaction_id": "3000045000000",
+    "quantity": "1",
+    "is_trial_period": "true",
+    "is_in_intro_offer_period": "false",
+    "expires_date": "1527090762000",
+    "expires_date_formatted": "2018-05-23 15:52:42 Etc/GMT",
+    "expires_date_formatted_pst": "2018-05-23 08:52:42 America/Los_Angeles",
+    "web_order_line_item_id": "30000107338635",
+    "version_external_identifier": "826823967",
+    "purchase_date": "2018-05-16 15:52:42 Etc/GMT",
+    "purchase_date_pst": "2018-05-16 08:52:42 America/Los_Angeles",
+    "purchase_date_ms": "1526485962000",
+    "original_purchase_date": "2018-05-16 15:52:43 Etc/GMT",
+    "original_purchase_date_pst": "2018-05-16 08:52:43 America/Los_Angeles",
+    "original_purchase_date_ms": "1526485963000",
+    "unique_identifier": "ff36d1bf4cab0cc601de769266a44ac9367b8801",
+    "unique_vendor_identifier": "E9532452-7646-4D38-BB4F-F1770669A750"
+  },
+  "environment": "PROD",
+  "auto_renew_status": "true",
+  "password": "f0fad3b552564d21b8d83b6e2dd68714",
+  "auto_renew_product_id": "com.foundermark.Friended.prosub",
+  "notification_type": "INITIAL_BUY"
+}

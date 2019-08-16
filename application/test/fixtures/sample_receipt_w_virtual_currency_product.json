@@ -1,0 +1,81 @@
+{
+    "status":0,
+    "environment":"Production",
+    "receipt":{
+        "receipt_type":"Production",
+        "adam_id":1144304244,
+        "app_item_id":1144304244,
+        "bundle_id":"com.foundermark.friended",
+        "application_version":"1",
+        "download_id":69030955514114,
+        "version_external_identifier":827446320,
+        "receipt_creation_date":"2018-06-28 11:32:57 Etc/GMT",
+        "receipt_creation_date_ms":"1530185577000",
+        "receipt_creation_date_pst":"2018-06-28 04:32:57 America/Los_Angeles",
+        "request_date":"2018-06-28 11:32:59 Etc/GMT",
+        "request_date_ms":"1530185579282",
+        "request_date_pst":"2018-06-28 04:32:59 America/Los_Angeles",
+        "original_purchase_date":"2018-06-05 07:52:26 Etc/GMT",
+        "original_purchase_date_ms":"1528185146000",
+        "original_purchase_date_pst":"2018-06-05 00:52:26 America/Los_Angeles",
+        "original_application_version":"4",
+        "in_app":[
+            {
+                "quantity":"1",
+                "product_id":"com.foundermark.Friended.virtual_currency_purchase_small",
+                "transaction_id":"70000458734964",
+                "original_transaction_id":"70000458734964",
+                "purchase_date":"2018-06-28 11:32:57 Etc/GMT",
+                "purchase_date_ms":"1530185577000",
+                "purchase_date_pst":"2018-06-28 04:32:57 America/Los_Angeles",
+                "original_purchase_date":"2018-06-28 11:32:57 Etc/GMT",
+                "original_purchase_date_ms":"1530185577000",
+                "original_purchase_date_pst":"2018-06-28 04:32:57 America/Los_Angeles",
+                "is_trial_period":"false"},
+            {
+                "quantity":"1",
+                "product_id":"com.foundermark.Friended.prosub",
+                "transaction_id":"310000293756518",
+                "original_transaction_id":"310000293756518",
+                "purchase_date":"2018-06-26 08:48:58 Etc/GMT",
+                "purchase_date_ms":"1530002938000",
+                "purchase_date_pst":"2018-06-26 01:48:58 America/Los_Angeles",
+                "original_purchase_date":"2018-06-26 08:48:58 Etc/GMT",
+                "original_purchase_date_ms":"1530002938000",
+                "original_purchase_date_pst":"2018-06-26 01:48:58 America/Los_Angeles",
+                "expires_date":"2018-07-03 08:48:58 Etc/GMT",
+                "expires_date_ms":"1530607738000",
+                "expires_date_pst":"2018-07-03 01:48:58 America/Los_Angeles",
+                "web_order_line_item_id":"290000081140911",
+                "is_trial_period":"true",
+                "is_in_intro_offer_period":"false"}
+        ]
+    },
+    "latest_receipt_info":[
+        {
+            "quantity":"1",
+            "product_id":"com.foundermark.Friended.prosub",
+            "transaction_id":"310000293756518",
+            "original_transaction_id":"310000293756518",
+            "purchase_date":"2018-06-26 08:48:58 Etc/GMT",
+            "purchase_date_ms":"1530002938000",
+            "purchase_date_pst":"2018-06-26 01:48:58 America/Los_Angeles",
+            "original_purchase_date":"2018-06-26 08:48:58 Etc/GMT",
+            "original_purchase_date_ms":"1530002938000",
+            "original_purchase_date_pst":"2018-06-26 01:48:58 America/Los_Angeles",
+            "expires_date":"2018-07-03 08:48:58 Etc/GMT",
+            "expires_date_ms":"1530607738000",
+            "expires_date_pst":"2018-07-03 01:48:58 America/Los_Angeles",
+            "web_order_line_item_id":"290000081140911",
+            "is_trial_period":"true",
+            "is_in_intro_offer_period":"false"}
+    ],
+    "latest_receipt":"MIIVtw9OiyDnBWHkESMEtgOVCWITTwJw==",
+    "pending_renewal_info":[
+        {
+            "auto_renew_product_id":"com.foundermark.Friended.prosub",
+            "original_transaction_id":"310000293756518",
+            "product_id":"com.foundermark.Friended.prosub",
+            "auto_renew_status":"1"}
+    ]
+}
